@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+TrustRAG/
+index_store_bge
 
 # C extensions
 *.so
